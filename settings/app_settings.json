@@ -1,0 +1,24 @@
+{
+    "theme": "Midnight Rain",
+    "selected_languages": [
+        "en",
+        "de",
+        "fr",
+        "es",
+        "ru",
+        "tr"
+    ],
+    "openai_api_key": "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",
+    "openai_model": "gpt-3.5-turbo",
+    "links_file": "creator\\link.txt",
+    "used_links_file": "creator\\used_link.txt",
+    "output_dir": "creator\\output",
+    "yt_dlp_quality": "4K (2160p)",
+    "ffmpeg_preset": "veryslow",
+    "hardware_accel": "CPU",
+    "enable_overlay": false,
+    "auto_upload": true,
+    "privacy_status": "public",
+    "limit_enabled": true,
+    "limit_count": 3
+}
